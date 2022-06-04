@@ -1,0 +1,75 @@
+
+.navbar-brand img{
+    width: 100px;
+}
+.icon-style{
+    display: flex;
+}
+.icon-style span {
+	margin-right: 15px;
+	transform: rotate(35deg);
+}
+.btn-primary{
+    background-color: #8490ff !important;
+    color: #fff !important;
+}
+.pricing-table-section h1{
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+.pricing-table-section p{
+    font-size: 20px;
+}
+.pricing-item{
+    background: #fff;
+    padding: 0 50px;
+    box-shadow: 2.5px 4.33px 30px rgba(64,87,191,0.1);
+    border-radius: 5px;
+}
+.pricing-item h2{
+    background-color: #f9f9ff;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    display: inline-block;
+    line-height: 90px;
+}
+.pricing-item-button a{
+    color: #657be0;
+    border-color: #657be0;
+    border-width: 2px;
+    font-size: 23px;
+    padding: 8px 18px;
+    box-shadow: 2.5px 4.33px 30px rgba(64,87,191,0.2);
+}
+.btn-outline-info:hover {
+	color: #fff;
+	background-color: #0dcaf0;
+	border-color: #0dcaf0;
+}
+.about-item{
+    margin-top: 80px;
+}
+.about-item .card img{
+    width: 90px;
+    height: auto;
+    margin-top: -50px;
+    margin-left: 15px;
+}
+.card-body a{
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.2) !important;
+}
+.card-body a:hover{
+    color: #ffffff;
+    background-color: #465052;
+    border-color: #465052;
+    box-shadow: 3px 3px 27px -3px #465052;
+    transition: .3s;
+}
+.lm10{
+   font-size: 50px;
+}
+form button{
+    color: #fff !important;
+    background-color: #17a2b8 !important;
+}

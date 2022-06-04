@@ -1,0 +1,108 @@
+@media ( max-width: 1200px) {
+    .images img {
+        margin-left: 90px !important;
+    }
+}
+@media (max-width: 992px) {
+    .images{
+        text-align: center;
+    }
+    .images img {
+        margin-left: 0px !important;
+    }
+    .images-1{
+        text-align: center;
+    }
+    .number-counter {
+        padding: 20px 0 !important;
+    }
+    .pricing-table-section h1 {
+        font-size: 33px;
+        margin-bottom: 10px;
+    }
+    .pricing-table-section p {
+        font-size: 18px;
+    }
+    .pricing-table-section .inner-p {
+        font-size: 16px;
+        margin-bottom: 30px !important;
+    }
+    .pricing-item {
+        padding: 0 10px;
+    }
+    .price-p {
+        font-size: 17px !important;
+        margin-bottom: 15px !important;
+    }
+    .pricing-item-button a {
+        font-size: 15px;
+        margin-top: 10px;
+    }
+    .inner-input{
+        margin-bottom: 15px;
+    }
+    .contact-cap{
+        text-align: center;
+        margin-top: 40px;
+    }
+}
+@media (max-width: 768px) {
+    .pricing-table-section h1 {
+        font-size: 33px;
+        margin-bottom: 10px;
+    }
+    .price-p {
+        font-size: 16px !important;
+        margin-bottom: 10px !important;
+    }
+    .pricing-table-section .inner-p {
+        font-size: 15px;
+        margin-bottom: 25px !important;
+    }
+    .pricing-item-button a {
+        font-size: 13px;
+        margin-top: 15px;
+    }
+    .pricing-item h2{
+        height: 80px;
+        width: 80px;
+        line-height: 80px;
+    }
+    .pricing-table-section h1 {
+        font-size: 30px;
+    }
+    .pricing-table-section p {
+        font-size: 15px;
+    }
+    .about-item .card img {
+        width: 90px;
+        height: 90px;
+        border-radius: 50%;
+    }
+}
+@media (max-width: 576px) {
+    .images img {
+        height: 300px !important;
+    }
+    .images-1{
+        text-align: center;
+    }
+    .images-1 img{
+        width: 350px !important;
+    }
+    .pricing-item {
+        margin-bottom: 30px;
+    }
+    .card-body {
+        padding: 10px 0 !important;
+    }
+    .about-item .card img {
+        width: 90px;
+        height: 90px;
+        border-radius: 50%;
+    }
+    footer p{
+        font-size: 15px !important;
+    }
+
+}
